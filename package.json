@@ -1,0 +1,28 @@
+{
+      "name": "shinemc-bot",
+        "version": "2.0.0",
+          "description": "ShineMC Official PvP Server Bot - Live Status, Top 10 Kills, Tier List & Minecraft Chat Bridge",
+            "main": "index.js",
+              "scripts": {
+                  "start": "node index.js"
+                    },
+                      "keywords": [
+                          "shinemc",
+                              "minecraft",
+                                  "discord-bot",
+                                      "pvp",
+                                          "tier-list",
+                                              "mineflayer"
+                                                ],
+                                                  "author": "ShineMC",
+                                                    "license": "ISC",
+                                                      "engines": {
+                                                          "node": ">=18.0.0"
+                                                            },
+                                                              "dependencies": {
+                                                                  "discord.js": "^14.16.3",
+                                                                      "minecraft-server-util": "^5.5.1",
+                                                                          "mineflayer": "^4.20.1"
+                                                                            }
+                                                                            }
+                                                                            
